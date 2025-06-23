@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ceb
+Version: 0.1.0
+Summary: https://github.com/learnedsystems/CEB
+License: MIT
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: scipy

@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ood
+Version: 0.1
+Summary: CardOOD SQL Cardinality estimator
+License: MIT
+Requires-Dist: numpy
+Requires-Dist: torch
+Requires-Dist: scipy

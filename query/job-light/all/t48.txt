@@ -1,0 +1,15 @@
+title,movie_info,movie_companies,cast_info@product_year,1991,433@info_type_id,64,64@@person_role_id,3007912,3007912@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@36
+title,movie_info,movie_companies,cast_info@product_year,2010,1739@info_type_id,16,16@@person_role_id,2177839,2177839@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@7
+title,movie_info,movie_companies,cast_info@product_year,1994,1518@info_type_id,7,7@@person_role_id,2037902,2037902@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@50
+title,movie_info,movie_companies,cast_info@product_year,1938,844@info_type_id,1,1@@person_role_id,25121,25121@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@3
+title,movie_info,movie_companies,cast_info@product_year,1979,1412@info_type_id,8,8@@person_role_id,1552943,1552943@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@4
+title,movie_info,movie_companies,cast_info@product_year,2000,1331@info_type_id,4,4@@person_role_id,2066909,2066909@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@1
+title,movie_info,movie_companies,cast_info@product_year,2010,695@info_type_id,6,6@@person_role_id,2018184,2018184@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@2
+title,movie_info,movie_companies,cast_info@product_year,1957,-1@info_type_id,96,96@@person_role_id,83774,83774@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@15
+title,movie_info,movie_companies,cast_info@product_year,1957,224@info_type_id,5,5@@person_role_id,262905,262905@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@6
+title,movie_info,movie_companies,cast_info@product_year,1951,1388@info_type_id,16,16@@person_role_id,1356364,1356364@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@16
+title,movie_info,movie_companies,cast_info@product_year,1994,1470@info_type_id,76,76@@person_role_id,838965,838965@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@54
+title,movie_info,movie_companies,cast_info@product_year,1986,1484@info_type_id,104,104@@person_role_id,1172733,1172733@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@9
+title,movie_info,movie_companies,cast_info@product_year,1990,34@info_type_id,7,7@@person_role_id,834879,834879@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@240
+title,movie_info,movie_companies,cast_info@product_year,1997,446@info_type_id,1,1@@person_role_id,1747540,1747540@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@3
+title,movie_info,movie_companies,cast_info@product_year,1994,559@info_type_id,15,15@@person_role_id,1679127,1679127@title,movie_info,movie_id#title,movie_companies,movie_id#title,cast_info,movie_id@3

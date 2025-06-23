@@ -1,0 +1,13 @@
+numpy==1.21.0
+pandas
+networkx
+sqlparse
+psycopg2-binary
+matplotlib
+grandalf
+xgboost
+scikit-learn
+torch
+pygtrie
+wandb
+seaborn

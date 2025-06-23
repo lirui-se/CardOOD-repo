@@ -1,0 +1,3 @@
+lirui     425992  425990  0 23:45 pts/56   00:00:00 grep python3 -u
+jtan     1985712       1  0 Jul28 pts/33   00:00:13 python3 -u main.py
+jtan     1985976 1985712  0 Jul28 pts/33   01:08:26 python3 -u main.py
